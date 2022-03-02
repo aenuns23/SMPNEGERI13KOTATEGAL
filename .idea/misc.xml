@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI13KOTATEGAL/app/src/main/res/layout/activity_ekskul.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI13KOTATEGAL/app/src/main/res/layout/activity_fasilitas.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI13KOTATEGAL/app/src/main/res/layout/activity_galeri.xml" value="0.1527777777777778" />
         <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI13KOTATEGAL/app/src/main/res/layout/activity_main.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI13KOTATEGAL/app/src/main/res/layout/activity_perpus.xml" value="0.1527777777777778" />
+        <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI13KOTATEGAL/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI13KOTATEGAL/app/src/main/res/layout/slider_item.xml" value="0.1527777777777778" />
       </map>
     </option>
   </component>
