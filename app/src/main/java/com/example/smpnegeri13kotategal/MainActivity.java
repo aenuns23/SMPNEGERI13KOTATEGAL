@@ -16,10 +16,10 @@ import com.example.smpnegeri13kotategal.ProfilActivity;
 
 
 public class MainActivity extends AppCompatActivity {
-    int[] images = {R.drawable.smp13,
-            R.drawable.headersmp13,
+    int[] images = {R.drawable.headersekolah,
+            R.drawable.smp13,
             R.drawable.profilsekolahsmp,
-            R.drawable.header1
+            R.drawable.headerschool
         };
 
     @Override
